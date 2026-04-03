@@ -5,7 +5,7 @@ Inherits=candy-icons,breeze-dark,Adwaita,hicolor
 FollowsColorScheme=true
 
 # Directory list
-Directories=places/48
+Directories=places/16,places/48,apps/scalable,devices/scalable,preferences/scalable,mimetypes/scalable,status/scalable
 
 [apps/scalable]
 Size=96
