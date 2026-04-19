@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="libreoffice-base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="18.974032"
+     inkscape:cx="34.31005"
+     inkscape:cy="24.691641"
+     inkscape:window-width="1901"
+     inkscape:window-height="1061"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <rect
+     style="display:inline;isolation:isolate;fill:#7ee9ff;fill-opacity:1;stroke:#4f4f5b;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-5"
+     width="34.987068"
+     height="40.987068"
+     x="6.5"
+     y="3.506465"
+     ry="6.4997749" />
+  <g
+     id="g1"
+     transform="matrix(0.88852909,0,0,0.88852909,40.861138,4.2548683)"
+     style="stroke-width:5.62727777;stroke-dasharray:none">
+    <path
+       d="m -31.069441,33.316536 c 0.167657,0.825587 0.748378,1.516619 1.624803,2.083729 1.517635,0.921059 3.983746,1.580297 6.962594,1.857979 0.08352,0.0077 0.169973,0.01071 0.253967,0.01783 0.946768,0.0807 1.933843,0.130685 2.96742,0.130698 1.632917,5.3e-5 3.202144,-0.104579 4.650146,-0.291097 0.12952,-0.01651 0.252319,-0.03707 0.380212,-0.05496 4.2568673,-0.603823 7.3377278,-1.968253 7.3739937,-3.778337 L -6.8800713,12.160827 C -7.760784,16.548349 -29.651236,18.147933 -30.968626,11.707799"
+       style="fill:none;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path10"
+       sodipodi:nodetypes="cccccccscc" />
+    <path
+       d="m -31.081026,18.767716 c 6.12e-4,2.487828 5.421657,4.504513 12.108795,4.504597 6.687719,2.21e-4 12.1096693,-2.016553 12.1102816,-4.504597 0.6758283,5.027517 -23.3873756,6.271876 -24.2190766,0 z"
+       style="fill:none;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path6"
+       sodipodi:nodetypes="cccc" />
+    <path
+       d="m -31.085449,25.997099 c 6.11e-4,2.487827 5.119202,4.239864 11.806337,4.239948 6.687721,2.21e-4 12.4121276,-1.751905 12.4127379,-4.239948 0.6758293,5.027516 -23.3873739,6.271875 -24.2190749,0 z"
+       style="fill:none;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path6-6"
+       sodipodi:nodetypes="cccc" />
+    <ellipse
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="path1"
+       cx="-18.991186"
+       cy="11.508343"
+       rx="12.109207"
+       ry="4.5050087" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -31.10039,11.508344 V 33.042771"
+       id="path5-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#4f4f5b;stroke-width:5.62727777;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M -6.871158,11.488149 -6.918691,33.687945"
+       id="path5-7-3"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
